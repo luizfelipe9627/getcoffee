@@ -6,6 +6,10 @@
 
 ## 📄 Descrição
 
+O getcoffe é um site de cafeteria usado para fazer pedidos.
+
+## 📑 Observação
+
 Atividade passada pelo Vai na Web para práticar HTML5, CSS3 e principalmente Responsividade.
 
 ### <a href="https://luizfelipe9627-getcoffee-vnw.netlify.app">Acesse o site</a>
